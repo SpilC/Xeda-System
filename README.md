@@ -1,2 +1,2 @@
-# Xeda-System
-Hi. Here You Can Develop Your System In Few Seconds.
+# JpgMaster
+Hi. Here You Can edit Your images in the Few Seconds.
